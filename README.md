@@ -15,15 +15,15 @@
 
 <!-- Stamps and blinkies -->
 <div align="center">
-  <img src="/resources\vee2.gif" height="80" alt="Eevee" />
-  <img src="/resources\vee4.png" height="80" alt="Eevee" />
+  <img src="/resources\vee2.gif" height="60" alt="Eevee" />
+  <img src="/resources\vee4.png" height="60" alt="Eevee" />
 </div>
 
 <div align="center">
-  <img src="/resources\b7.gif" height="70" alt="Wow" />
+  <img src="/resources\b7.gif" height="50" alt="Wow" />
 </div>
 
 <div align="center">
-  <img src="/resources\b9.gif" height="50" alt="Seed" />
-  <img src="/resources\b4.gif" height="50" alt="Web" />
+  <img src="/resources\b9.gif" height="40" alt="Seed" />
+  <img src="/resources\b4.gif" height="40" alt="Web" />
 </div>
