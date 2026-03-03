@@ -1,8 +1,5 @@
 <!-- <h1 align="center"> ‼️ </h1> -->
-
-<p align="center"> 
-	:suspect: Student of SPbPU, CompSci and Engineering :suspect:
-</p>
+Hello! I am a Student at SPbPU, studying CompSci and Engineering.
 
 <p align="center"> 
 	<img width="12" src="/resources/world.ico" /> 
