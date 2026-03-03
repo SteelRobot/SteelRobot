@@ -67,6 +67,6 @@
 </div>
 
 <div align="center">
-	<img src="/resources\b9.gif" height="40" alt="Seed" />
+<!--	<img src="/resources\b9.gif" height="40" alt="Seed" /> -->
 	<img src="/resources\b4.gif" height="40" alt="Web" />
 </div>
