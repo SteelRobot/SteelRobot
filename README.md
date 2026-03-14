@@ -91,26 +91,49 @@ I like to work on my homelab in my free time, tinkering with anything that can b
 </p>
 </br>
 <div align="center">
-	<a href="https://tailscale.com/">
-		<code><img width="55" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tailscale-light.svg" alt="Tailscale" title="Tailscale"/></code>
+	<a href="https://tailscale.com/"">
+		<picture>
+			<source media="(prefers-color-scheme: dark)" width="55" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/tailscale-light.svg"/>
+			<source media="(prefers-color-scheme: light)" width="55" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/tailscale.svg"/>
+			<img alt="Tailscale" title="Tailscale">
+		</picture>
 	</a>
 	<a href="https://www.docker.com/">
-		<code><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+		<picture>
+			<source width="70" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/docker.svg"/>
+			<img alt="Docker" title="Docker">
+		</picture>
 	</a>
 	<a href="https://www.portainer.io/">
-		<code><img width="40" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/portainer-dark.svg" alt="Portainer" title="Portainer"/></code>
+		<picture>
+			<source width="60" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/portainer-pink.svg"/>
+			<img alt="Portainer" title="Portainer">
+		</picture>
 	</a>
 	<a href="https://github.com/almeidapaulopt/tsdproxy">
-		<code><img width="60" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tsd-proxy.svg" alt="TSDProxy" title="TSDProxy"/></code>
+		<picture>
+			<source width="60" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tsd-proxy.svg"/>
+			<img alt="TSDProxy" title="TSDProxy">
+		</picture>
 	</a>
 	<a href="https://github.com/bastienwirtz/homer">
-		<code><img width="60" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/homer.svg" alt="Homer" title="Homer"/></code>
+		<picture>
+			<source width="60" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/homer.svg"/>
+			<img alt="Homer" title="Homer">
+		</picture>
 	</a>
 	<a href="https://github.com/dani-garcia/vaultwarden">
-		<code><img width="60" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vaultwarden-light.svg" alt="Vaultwarden" title="Vaultwarden"/></code>
+		<picture>
+			<source width="60" media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/vaultwarden.svg"/>
+			<source width="60" media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/vaultwarden-light.svg"/>
+			<img alt="Vaultwarden" title="Vaultwarden">
+		</picture>
 	</a>
 	<a href="https://github.com/open-webui/open-webui">
-		<code><img width="60" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/open-webui.svg" alt="Vaultwarden" title="Open Webui"/></code>
+		<picture>
+			<source width="60" srcset="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/open-webui.svg"/>
+			<img alt="Open WebUI" title="Open WebUI">
+		</picture>
 	</a>
 </div>
 
